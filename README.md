@@ -2,7 +2,7 @@
 
 A SFML Game using the C++ programming language. 
 
-# How to play
+# How to play in website
 
 Download the code and open CND.cbp with your Codeblocks.   
 SFML library must be installed on your Codeblocks.
